@@ -1,0 +1,2 @@
+why have we chosen the amplitude modulation freq?
+bec the maximum frequency of the first input is 7824Hz and the maximum frequency of the second input is 7501HZ
